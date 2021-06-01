@@ -1,0 +1,4 @@
+# Place for time log for the project
+1. Learning Scrappy related to some xpath elements - 1.5 hours
+2. Design and implementing Spider - 5 hours
+3. Testing - 30 min
